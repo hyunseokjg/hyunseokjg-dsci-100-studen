@@ -1,1 +1,1 @@
-# hyunseokjg-dsci-100-studen
+# hyunseokjg-dsci-100-student
